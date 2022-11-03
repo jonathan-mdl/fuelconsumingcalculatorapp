@@ -1,0 +1,2 @@
+# fuelconsumingcalculatorapp
+Clean Architecture implemented
